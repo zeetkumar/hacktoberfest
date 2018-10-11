@@ -1,5 +1,5 @@
 #include <stdio.h>
-// hacktober fest 
+/*selection sort*/
 int main()
 {
    int array[100], n, c, d, position, swap;
