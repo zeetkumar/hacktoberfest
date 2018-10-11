@@ -1,4 +1,5 @@
 #include<stdio.h>
+// quicksort
 void quicksort(int number[25],int first,int last){
    int i, j, pivot, temp;
 

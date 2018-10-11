@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+// hacktober fest 
 int main()
 {
    int array[100], n, c, d, position, swap;

@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+//insertion sort 
 int main()
 {
   int n, array[1000], c, d, t;
