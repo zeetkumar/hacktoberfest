@@ -1,5 +1,5 @@
 #include <stdio.h>
- /* bubblesort */
+ /*  c program for bubblesort */
 int main()
 {
   int array[100], n, c, d, swap;
